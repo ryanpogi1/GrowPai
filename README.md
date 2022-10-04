@@ -6,4 +6,4 @@ A Growtopia internal hack
 * Added save, delete, attach console and detach console for lua executor
 * Added Dev mode and CTRL TP
 # Download
-[Download](https://carapedi.id/T7UbIRi)
+[Download](https://carapedi.id/yzJBB)
