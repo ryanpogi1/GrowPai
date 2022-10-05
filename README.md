@@ -7,7 +7,7 @@ A Growtopia internal hack
 * Added custom login and custom flag
 * Added auto resizing on executor tab
 # Download
-* [Download](https://carapedi.id/naRFNPT5OI)
+* [Download](https://carapedi.id/dMdKLm9)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
