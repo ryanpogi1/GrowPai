@@ -3,11 +3,9 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.03</b>
 # What new
-* Fixed crash when resizing it too small
-* Added custom login and custom flag
-* Added auto resizing on executor tab
+* Added protection to server (don't ddos pls)
 # Download
-* [Download](https://carapedi.id/V4Ws)
+* [Download](https://carapedi.id/OYn2m4j3G9M)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
