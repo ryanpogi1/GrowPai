@@ -6,8 +6,9 @@ A Growtopia internal hack
 * Fixed inventory (always update the value)
 * Added GetAccesslist
 * Fixed auto ban when just doing superpunching
+* Added host file changer
 # Download
-* [Download](https://carapedi.id/wBWt3j)
+* [Download](https://carapedi.id/Y5cbNKgP85dm)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
