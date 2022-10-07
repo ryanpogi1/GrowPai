@@ -3,9 +3,11 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.03</b>
 # What new
-* Added protection to server (don't ddos pls)
+* Fixed inventory (always update the value)
+* Added GetAccesslist
+* Fixed auto ban when just doing superpunching
 # Download
-* [Download](https://carapedi.id/OYn2m4j3G9M)
+* [Download](https://carapedi.id/wBWt3j)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
