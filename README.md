@@ -3,10 +3,10 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.03</b>
 # What new
-* Fixed inventory (always update the value)
-* Added GetAccesslist
-* Fixed auto ban when just doing superpunching
-* Added host file changer
+* Added targetnetid (superpunch)
+* Added target esp
+* fixed bruteforce
+* improved pathfinder
 # Download
 * [Download](https://carapedi.id/TYeiB3Wf7XRQ)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
