@@ -8,7 +8,7 @@ A Growtopia internal hack
 * Fixed auto ban when just doing superpunching
 * Added host file changer
 # Download
-* [Download](https://carapedi.id/Y5cbNKgP85dm)
+* [Download](https://carapedi.id/TYeiB3Wf7XRQ)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
