@@ -2,14 +2,12 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.03</b>
-# What new
-* Added targetnetid (superpunch)
-* Added target esp
-* fixed bruteforce
-* improved pathfinder
+# What new [10/10/2022]
+* Added Captcha solver
+* Added Auto bfg (with animation)
 * <b>NOTE: Don't spam superpunch so no ban</b>
 # Download
-* [Download](https://carapedi.id/egfK)
+* [Download](https://carapedi.id/W2chzuaK8)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
