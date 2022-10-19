@@ -7,7 +7,7 @@ A Growtopia internal hack
 * Fixed crash when switching tab to executor
 * Added tile pos name
 # Download
-* [Download](https://carapedi.id/VH5TnH)
+* [Download](https://carapedi.id/sLiC0HN)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
