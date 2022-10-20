@@ -10,11 +10,10 @@
 * [GetObjects](#getobjects)
 * [GetTile](#gettile)
 * [GetTiles](#gettiles)
+* [GetPing](#getping)
 * [AddCallback](#addcallback)
 * [RunThread](#runthread)
 * [Sleep](#sleep)
-* [GetAccesslist](#getaccesslist)
-
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -206,15 +205,13 @@ end
 AddCallback("OnPacket", hook)
 ```
 
-## GetAccesslist
-`GetAccesslist(int x, int y)`
-Get lock's access userid list
+## GetPing
+`GetPing()`
+Get ping ms from your peer
 
 Example:
 ```lua
-for __,v in pairs(GetAccesslist(0,0)) do
-	log(v.uid)
-end
+log("My ping is : "..tostring(GetPing()))
 ```
 
 # Structs
