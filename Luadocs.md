@@ -14,6 +14,7 @@
 * [AddCallback](#addcallback)
 * [RunThread](#runthread)
 * [Sleep](#sleep)
+* [GetAccesslist](#getaccesslist)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -212,6 +213,17 @@ Get ping ms from your peer
 Example:
 ```lua
 log("My ping is : "..tostring(GetPing()))
+```
+
+## GetAccesslist
+`GetAccesslist(int x, int y)`
+Get lock's access userid list
+
+Example:
+```lua
+for __,v in pairs(GetAccesslist(0,0)) do
+	log(v.uid)
+end
 ```
 
 # Structs
