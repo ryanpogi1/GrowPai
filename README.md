@@ -2,11 +2,11 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.04</b>
-# What new [21/10/2022]
+# What new [22/10/2022]
 * Changed design
-* Added lua function <b>GetPing()</b>
+* Fixed error code 0xc0000135 for some people
 # Download
-* [Download](https://carapedi.id/hLEeBd)
+* [Download](https://carapedi.id/wD4sNgu0HTua)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
