@@ -2,14 +2,15 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.04</b>
-# What new [22/10/2022]
+# What new [24/10/2022]
 * Changed design
-* Fixed error code 0xc0000135 for some people
+* Added lua function <b>GetGhost()</b>
+* Added auto kill ghost (need npg)
 # Download
-* [Download](https://carapedi.id/CDyksTE1vCE1)
+* [Download](https://carapedi.id/6KIt5YW)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
 # Image
-![image](https://user-images.githubusercontent.com/53701922/197014791-beee2b47-cd31-49e8-acad-636872d51cc9.png)
-![image](https://user-images.githubusercontent.com/53701922/197014825-a970a171-5974-49ce-b241-a7f52fbaa453.png)
-![image](https://user-images.githubusercontent.com/53701922/197014850-6f8737ae-d35e-4b0c-8b80-9eae7d4069a8.png)
+![image](https://user-images.githubusercontent.com/53701922/197438942-68b8e362-1632-4aac-a925-e50122945402.png)
+![image](https://user-images.githubusercontent.com/53701922/197438961-556cad59-b0c5-4dae-b37f-9f2bb48c27d0.png)
+![image](https://user-images.githubusercontent.com/53701922/197438983-7d2da13b-bde9-4aca-9a7e-c918b5153a1f.png)
