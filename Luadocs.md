@@ -15,6 +15,7 @@
 * [RunThread](#runthread)
 * [Sleep](#sleep)
 * [GetAccesslist](#getaccesslist)
+* [GetGhost](#getghost)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -226,6 +227,18 @@ for __,v in pairs(GetAccesslist(0,0)) do
 end
 ```
 
+
+## GetGhost
+`GetGhost()`
+Get all ghost npc id and pos
+
+Example:
+```lua
+for __,v in pairs(GetGhost()) do
+	log(string.format("%d : %d, %d",v.id, v.pos_x, v.pos_y))
+end
+```
+
 # Structs
 
 * [NetAvatar](#netavatar)
@@ -239,6 +252,7 @@ end
 | Type | Name | Description|
 |:-----|:----:|:-----------|
 | String | `name` | Player's name |
+| String | `world` | Player's world(only local) |
 | String | `country` | Player's flag id |
 | Number | `pos_x`  | Player's x position |
 | Number | `pos_y`  | Player's y position |
