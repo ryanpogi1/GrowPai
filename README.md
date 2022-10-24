@@ -10,6 +10,9 @@ A Growtopia internal hack
 * [Download](https://carapedi.id/6KIt5YW)
 * [Discord Server](https://discord.gg/k4fdpb8R2H)
 
+# If Error
+* If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
+
 # Image
 ![image](https://user-images.githubusercontent.com/53701922/197438942-68b8e362-1632-4aac-a925-e50122945402.png)
 ![image](https://user-images.githubusercontent.com/53701922/197438961-556cad59-b0c5-4dae-b37f-9f2bb48c27d0.png)
