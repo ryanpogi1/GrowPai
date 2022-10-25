@@ -8,7 +8,7 @@ A Growtopia internal hack
 * Added auto kill ghost (need npg)
 # Download
 * [Download](https://carapedi.id/6KIt5YW)
-* [Discord Server](https://discord.gg/k4fdpb8R2H)
+* [Discord Server](https://discord.gg/growpai)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
