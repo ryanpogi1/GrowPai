@@ -3,11 +3,11 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.04</b>
 # What new [24/10/2022]
-* Changed design
-* Added lua function <b>GetGhost()</b>
-* Added auto kill ghost (need npg)
+* Fixed night vision
+* Added mod detector (doesn't automaticly leave)
+* Added account type (useless for now)
 # Download
-* [Download](https://carapedi.id/6KIt5YW)
+* [Download](https://carapedi.id/Ri2Bitq)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
