@@ -6,8 +6,10 @@ A Growtopia internal hack
 * Fixed night vision
 * Added mod detector (doesn't automaticly leave)
 * Added account type (useless for now)
+* Improved captcha
+* Removed that console thing
 # Download
-* [Download](https://carapedi.id/Ri2Bitq)
+* [Download](https://carapedi.id/ylXqjPyrgwC)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
