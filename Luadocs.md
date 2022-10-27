@@ -16,6 +16,7 @@
 * [Sleep](#sleep)
 * [GetAccesslist](#getaccesslist)
 * [GetGhost](#getghost)
+* [MessageBox](#messagebox)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -237,6 +238,15 @@ Example:
 for __,v in pairs(GetGhost()) do
 	log(string.format("%d : %d, %d",v.id, v.pos_x, v.pos_y))
 end
+```
+
+## MessageBox
+`MessageBox(string title, string content)`
+Send a messagebox to your client!
+
+Example:
+```lua
+MessageBox("This is title", "This is content")
 ```
 
 # Structs
