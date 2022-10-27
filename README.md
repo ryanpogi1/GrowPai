@@ -3,13 +3,11 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.04</b>
 # What new [24/10/2022]
-* Fixed night vision
-* Added mod detector (doesn't automaticly leave)
-* Added account type (useless for now)
-* Improved captcha
-* Removed that console thing
+* Added GrowScan esp
+* Added hotkeys
+* Added function <b>MessageBox(string title, string content)</b>
 # Download
-* [Download](https://carapedi.id/ylXqjPyrgwC)
+* [Download](https://carapedi.id/b3pg5itqoCUT)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
