@@ -2,7 +2,7 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.04</b>
-# What new [24/10/2022]
+# What new [27/10/2022]
 * Added GrowScan esp
 * Added hotkeys
 * Added function <b>MessageBox(string title, string content)</b>
