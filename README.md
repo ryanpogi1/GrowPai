@@ -7,7 +7,7 @@ A Growtopia internal hack
 * Added hotkeys
 * Added function <b>MessageBox(string title, string content)</b>
 # Download
-* [Download](https://carapedi.id/b3pg5itqoCUT)
+* [Download](https://carapedi.id/78qHzM5t)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
