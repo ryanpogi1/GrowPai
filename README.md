@@ -1,7 +1,7 @@
 # GrowPai
 A Growtopia internal hack
 # Version
-* Version : <b>4.04</b>
+* Version : <b>4.05</b> [28/10/2022]
 # What new [27/10/2022]
 * Added GrowScan esp
 * Added hotkeys
