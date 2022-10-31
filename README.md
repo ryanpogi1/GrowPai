@@ -2,10 +2,9 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.05</b> [28/10/2022]
-# What new [27/10/2022]
-* Added GrowScan esp
-* Added hotkeys
-* Added function <b>MessageBox(string title, string content)</b>
+# What new [31/10/2022]
+* Added autofish on automation page
+* Fixed AddCallback function
 # Download
 * [Download](https://carapedi.id/78qHzM5t)
 * [Discord Server](https://discord.gg/growpai)
