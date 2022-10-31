@@ -4,6 +4,7 @@ A Growtopia internal hack
 * Version : <b>4.05</b> [28/10/2022]
 # What new [31/10/2022]
 * Added autofish on automation page
+* Added auto leave when mods enter
 * Fixed AddCallback function
 # Download
 * [Download](https://carapedi.id/njjttjKUc8Wt)
