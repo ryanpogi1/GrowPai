@@ -6,7 +6,7 @@ A Growtopia internal hack
 * Added autofish on automation page
 * Fixed AddCallback function
 # Download
-* [Download](https://carapedi.id/78qHzM5t)
+* [Download](https://carapedi.id/M09xkoiZe)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
