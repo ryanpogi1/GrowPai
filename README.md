@@ -7,7 +7,7 @@ A Growtopia internal hack
 * Fixed mod detector OIAHDW(AUDH)*Q@HD)*AD)(Q@JDODKAPW(DI
 # Download
 * [Download](https://carapedi.id/6Foqu41fajR)
-* [Discord Server](https://discord.gg/growpai)
+* [Discord Server](https://discord.gg/merged)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
