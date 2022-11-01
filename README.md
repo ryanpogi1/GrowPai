@@ -3,9 +3,10 @@ A Growtopia internal hack
 # Version
 * Version : <b>4.07</b> [1/11/2022]
 # What new [1/11/2022]
-* Fixed mod detector
+* Fixed crash kontol
+* Fixed mod detector OIAHDW(AUDH)*Q@HD)*AD)(Q@JDODKAPW(DI
 # Download
-* [Download](https://carapedi.id/7VCfS7UgP)
+* [Download](https://carapedi.id/6Foqu41fajR)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
