@@ -1,13 +1,11 @@
 # GrowPai
 A Growtopia internal hack
 # Version
-* Version : <b>4.05</b> [28/10/2022]
+* Version : <b>4.07</b> [1/11/2022]
 # What new [31/10/2022]
-* Added autofish on automation page
-* Added auto leave when mods enter
-* Fixed AddCallback function
+* Fixed mod detector
 # Download
-* [Download](https://carapedi.id/njjttjKUc8Wt)
+* [Download](https://carapedi.id/7VCfS7UgP)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
