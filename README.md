@@ -2,7 +2,7 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.07</b> [1/11/2022]
-# What new [31/10/2022]
+# What new [1/11/2022]
 * Fixed mod detector
 # Download
 * [Download](https://carapedi.id/7VCfS7UgP)
