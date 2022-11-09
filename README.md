@@ -2,11 +2,13 @@
 A Growtopia internal hack
 # Version
 * Version : <b>4.07</b> [1/11/2022]
-# What new [1/11/2022]
-* Fixed crash kontol
-* Fixed mod detector OIAHDW(AUDH)*Q@HD)*AD)(Q@JDODKAPW(DI
+# What new [9/11/2022]
+* Fixed crash when warping or exiting a world
+* Added ignore path checking on pathfinder (reduce crash chance)
+* Added long punch & place (for gtps)
+* Fixed GetInventory don't update item count when it reach 0
 # Download
-* [Download](https://carapedi.id/6Foqu41fajR)
+* [Download](https://carapedi.id/2JRLd7Sga8)
 * [Discord Server](https://discord.gg/merged)
 
 # If Error
