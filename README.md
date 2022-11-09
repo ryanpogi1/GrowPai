@@ -7,8 +7,11 @@ A Growtopia internal hack
 * Added ignore path checking on pathfinder (reduce crash chance)
 * Added long punch & place (for gtps)
 * Fixed GetInventory don't update item count when it reach 0
+#Little  update
+* Added letter support on bruteforce passdoor
+* Fixed growscan
 # Download
-* [Download](https://carapedi.id/2JRLd7Sga8)
+* [Download](https://carapedi.id/0EwbfQjnR)
 * [Discord Server](https://discord.gg/merged)
 
 # If Error
