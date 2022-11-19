@@ -12,7 +12,7 @@ A Growtopia internal hack
 * Fixed growscan
 # Download
 * [Download](https://carapedi.id/0EwbfQjnR)
-* [Discord Server](https://discord.gg/merged)
+* [Discord Server](https://discord.gg/growpai)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
