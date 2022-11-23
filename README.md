@@ -11,7 +11,7 @@ A Growtopia internal hack
 * Added letter support on bruteforce passdoor
 * Fixed growscan
 # Download
-* [Download](https://carapedi.id/0EwbfQjnR)
+* [Download](https://cdn.discordapp.com/attachments/872253455614492713/1039939040629231656/Growpai.zip)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
