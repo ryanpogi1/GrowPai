@@ -17,6 +17,7 @@
 * [GetAccesslist](#getaccesslist)
 * [GetGhost](#getghost)
 * [MessageBox](#messagebox)
+* [RemoveCallbacks](#removecallbacks)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -249,6 +250,11 @@ Example:
 MessageBox("This is title", "This is content")
 ```
 
+## RemoveCallbacks
+`RemoveCallbacks()`
+Remove all callbacks
+
+
 # Structs
 
 * [NetAvatar](#netavatar)
@@ -272,6 +278,7 @@ MessageBox("This is title", "This is content")
 | Number | `size_y` | Player's x size |
 | Number | `netid` | Player's netID |
 | Number | `userid` | Player's userID |
+| Number | `gems` | Player's gems |
 | Bool | `facing_left` | Is player facing left |
 
 ## WorldObject
