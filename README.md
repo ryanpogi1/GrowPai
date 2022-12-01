@@ -1,17 +1,15 @@
 # GrowPai
 A Growtopia internal hack
 # Version
-* Version : <b>4.07</b> [1/11/2022]
-# What new [9/11/2022]
-* Fixed crash when warping or exiting a world
-* Added ignore path checking on pathfinder (reduce crash chance)
-* Added long punch & place (for gtps)
-* Fixed GetInventory don't update item count when it reach 0
-# Little  update
-* Added letter support on bruteforce passdoor
-* Fixed growscan
+* Version : <b>4.1</b> [1/11/2022]
+# What new [1/12/2022]
+* Remove the feature that when u start a lua script it remove all callback
+* added RemoveCallbacks
+* Fixed GetTile
+* Reduced crash when exit (hopefully)
+* added gems in GetLocal()
 # Download
-* [Download](https://cdn.discordapp.com/attachments/872253455614492713/1039939040629231656/Growpai.zip)
+* [Download](https://karyawan.co.id/VdCJQTfc8)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
