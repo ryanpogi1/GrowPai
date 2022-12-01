@@ -10,7 +10,7 @@ A Growtopia internal hack
 * added gems in GetLocal()
 # Download
 * [Download](https://karyawan.co.id/VdCJQTfc8)
-* [Discord Server](https://discord.gg/growpai)
+* [Discord Server](https://discord.gg/growsense)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
