@@ -1,4 +1,4 @@
-# GrowPai
+# GrowSense
 A Growtopia internal hack
 # Version
 * Version : <b>4.1</b> [1/12/2022]
