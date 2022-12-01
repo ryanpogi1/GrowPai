@@ -1,5 +1,4 @@
-# GrowSense
-A Growtopia internal hack
+# Growtopia cit hek no virus and ltc miner rilll
 # Version
 * Version : <b>4.1</b> [1/12/2022]
 # What new [1/12/2022]
