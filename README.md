@@ -1,7 +1,7 @@
 # GrowPai
 A Growtopia internal hack
 # Version
-* Version : <b>4.1</b> [1/11/2022]
+* Version : <b>4.1</b> [1/12/2022]
 # What new [1/12/2022]
 * Remove the feature that when u start a lua script it remove all callback
 * added RemoveCallbacks
