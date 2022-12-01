@@ -8,7 +8,7 @@
 * Reduced crash when exit (hopefully)
 * added gems in GetLocal()
 # Download
-* [Download](https://karyawan.co.id/VdCJQTfc8)
+* [Download](https://link-center.net/549925/growpai)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
