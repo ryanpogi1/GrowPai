@@ -1,14 +1,10 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.1</b> [1/12/2022]
-# What new [1/12/2022]
-* Remove the feature that when u start a lua script it remove all callback
-* added RemoveCallbacks
-* Fixed GetTile
-* Reduced crash when exit (hopefully)
-* added gems in GetLocal()
+* Version : <b>4.11</b> [15/12/2022]
+# What new [15/12/2022]
+* Added new callback function "OnRawPacket" track/block raw packet on your growtopia
 # Download
-* [Download](https://link-center.net/549925/growpai)
+* [Download](https://link-center.net/549925/download-growpai-411)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
