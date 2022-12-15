@@ -207,6 +207,15 @@ function hook(type, packet)
 end
 
 AddCallback("OnPacket", hook)
+
+-- Blocks your packet_state
+function hook(packet)
+	if packet.type == 0 then
+		return true
+	end
+end
+
+AddCallback("OnRawPacket", hook)
 ```
 
 ## GetPing
