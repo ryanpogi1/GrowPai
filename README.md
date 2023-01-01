@@ -1,10 +1,11 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.11</b> [15/12/2022]
-# What new [15/12/2022]
-* Added new callback function "OnRawPacket" track/block raw packet on your growtopia
+* Version : <b>4.12</b> [1/1/2023]
+# What new [1/1/2023] Happy new year
+* Added new callback function "OnIncomingRawPacket" track/block other incoming raw packet on your growtopia
+* Added timer library ;)
 # Download
-* [Download](https://link-center.net/549925/download-growpai-411)
+* [Download](https://khaddavi.net/5b18pgdPLUU)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
