@@ -18,6 +18,7 @@
 * [GetGhost](#getghost)
 * [MessageBox](#messagebox)
 * [RemoveCallbacks](#removecallbacks)
+* [Timer](#timer)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -216,6 +217,15 @@ function hook(packet)
 end
 
 AddCallback("OnRawPacket", hook)
+
+-- Blocks people packet_state
+function hook(packet)
+	if packet.type == 0 then
+		return true
+	end
+end
+
+AddCallback("OnIncomingRawPacket", hook)
 ```
 
 ## GetPing
@@ -262,6 +272,20 @@ MessageBox("This is title", "This is content")
 ## RemoveCallbacks
 `RemoveCallbacks()`
 Remove all callbacks
+
+## Timer
+Timer library by https://github.com/EntranceJew/timer
+the docs: https://wiki.facepunch.com/gmod/timer
+
+Example:
+```lua
+timer.Create("timer name", 5, 0, function() 
+	print("me nem kontol")
+	--this will print in 5 second
+end)
+
+timer.Destroy("timer name")-- destroy timer
+```
 
 
 # Structs
