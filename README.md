@@ -1,14 +1,10 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
 * Version : <b>4.12</b> [1/1/2023]
-# What new [9/1/2023]
-* Added new things on callback, check luadocs (OnRawPacket & OnIncomingRawPacket)
-* New GetLocal() (Can change the value, check luadocs)
-* Fixed crash if growtopia update
-* Removed version lock
-* Changed noclip method
+# What new [13/1/2023]
+* fixed some bug
 # Download
-* [Download](https://khaddavi.net/2hFNfViuo)
+* [Download](https://khaddavi.net/SUdW)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
