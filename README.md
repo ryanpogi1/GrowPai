@@ -1,6 +1,6 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.12</b> [1/1/2023]
+* Version : <b>4.13</b> [?/1/2023]
 # What new [13/1/2023]
 * fixed some bug
 # Download
