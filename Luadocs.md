@@ -1,6 +1,7 @@
 # Functions
 * [SendPacket](#sendpacket)
 * [SendPacketRaw](#sendpacketraw)
+* [SendPacketRawClient](#sendpacketrawclient)
 * [SendVarlist](#sendvarlist)
 * [log](#log)
 * [FindPath](#findpath)
@@ -19,6 +20,7 @@
 * [MessageBox](#messagebox)
 * [RemoveCallbacks](#removecallbacks)
 * [Timer](#timer)
+* [IsSolid](#issolid)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -42,6 +44,20 @@ Example:
 local packet = {}
 packet.type = 10 
 packet.int_data = 48 -- Clothing ID (Jeans)
+SendPacketRaw(packet)
+```
+
+## SendPacketRawClient
+`SendPacketRawClient(GamePacket packet)`
+
+Sends [GamePacket](#gamepacket) to client.
+
+Example:
+```lua
+-- Sends packet_state flag to client
+local packet = {}
+packet.type = 0 
+packet.flags = 48 -- flags
 SendPacketRaw(packet)
 ```
 
@@ -90,6 +106,10 @@ Example:
 -- Logs local players name
 local me = GetLocal()
 log(me.name)
+
+--changing name
+local Player = GetLocal()
+Player.name = "`wkontol``"
 ```
 
 ## GetInventory
@@ -226,6 +246,25 @@ function hook(packet)
 end
 
 AddCallback("OnIncomingRawPacket", hook)
+
+----------------------------------------
+-- Override your packet_state
+function hook(packet)
+	if packet.type == 0 then
+		packet.flags = 0 --remove all localplayer state flags
+	end
+end
+
+AddCallback("OnRawPacket", hook)
+
+-- Override people packet_state
+function hook(packet)
+	if packet.type == 0 then
+		packet.flags = 0 --remove all people state flags
+	end
+end
+
+AddCallback("OnIncomingRawPacket", hook)
 ```
 
 ## GetPing
@@ -287,6 +326,9 @@ end)
 timer.Destroy("timer name")-- destroy timer
 ```
 
+## IsSolid
+`IsSolid(int x, int y)`
+Check if the block is solid or no
 
 # Structs
 
@@ -313,6 +355,8 @@ timer.Destroy("timer name")-- destroy timer
 | Number | `userid` | Player's userID |
 | Number | `gems` | Player's gems |
 | Bool | `facing_left` | Is player facing left |
+| Number | `flags` | Player's flags |
+| Number | `flags2` | Player's flags2 |
 
 ## WorldObject
 | Type | Name | Description|
