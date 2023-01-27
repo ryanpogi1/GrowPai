@@ -7,7 +7,7 @@
 * Added IsSolid
 * The autofarm bfg now much faster
 # Download
-* [Download](https://semawur.com/WSYKPD5vE)
+* [Download](https://link-center.net/549925/growpai-v413)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
