@@ -1,10 +1,13 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
 * Version : <b>4.13</b> [?/1/2023]
-# What new [13/1/2023]
-* fixed some bug
+# What new [27/1/2023]
+* Fixed stuck login when using callback
+* Added SendPacketRawClient
+* Added IsSolid
+* The autofarm bfg now much faster
 # Download
-* [Download](https://khaddavi.net/SUdW)
+* [Download](https://semawur.com/WSYKPD5vE)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
