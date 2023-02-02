@@ -1,6 +1,6 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.13</b> [?/1/2023]
+* Version : <b>4.14</b> [?/1/2023]
 # What new [27/1/2023]
 * Fixed stuck login when using callback
 * Added SendPacketRawClient
