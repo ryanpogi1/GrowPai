@@ -1,14 +1,17 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.14</b> [?/1/2023]
-# What new [27/1/2023]
-* Fixed stuck login when using callback
-* Added SendPacketRawClient
-* Added IsSolid
-* The autofarm bfg now much faster
+* Version : <b>4.15</b> [08/2/2023]
+# What new [08/2/2023]
+* Added names to callback -> AddCallback(name, type, function)
+* Added SendWebhook -> SendWebhook(webhook, string json)
+* Added RemoveCallback -> RemoveCallback(name)
+* Updated to 4.15 (need to use growtopia 4.15)
+* Reduced ban chance when using autocollect
+* ubisoft cool :)
 # Download
-* [Download](https://link-center.net/549925/growpai-v413)
+* [Download](https://link-hub.net/549925/growpai-415)
 * [Discord Server](https://discord.gg/growpai)
+* [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
