@@ -7,9 +7,9 @@
 * Added RemoveCallback -> RemoveCallback(name)
 * Updated to 4.15 (need to use growtopia 4.15)
 * Reduced ban chance when using autocollect
-* ubisoft cool :)
+* on 9/2/2023, i fixed crash on inject
 # Download
-* [Download](https://link-hub.net/549925/growpai-415)
+* [Download](https://link-hub.net/549925/growpai-415-fixed-crash)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
