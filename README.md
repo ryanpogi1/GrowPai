@@ -2,14 +2,12 @@
 # Version
 * Version : <b>4.15</b> [08/2/2023]
 # What new [08/2/2023]
-* Added names to callback -> AddCallback(name, type, function)
-* Added SendWebhook -> SendWebhook(webhook, string json)
-* Added RemoveCallback -> RemoveCallback(name)
-* Updated to 4.15 (need to use growtopia 4.15)
-* Reduced ban chance when using autocollect
-* on 9/2/2023, i fixed crash on inject
+* Added CheckPath(int x, int y)
+* Pathfinder now support every world size
+* Autocollect no more crash
+* Fixed GetTile crash
 # Download
-* [Download](https://link-hub.net/549925/growpai-415-fixed-crash)
+* [Download](https://link-hub.net/549925/growpai-v417-fixed)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
