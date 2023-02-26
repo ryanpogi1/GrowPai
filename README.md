@@ -1,7 +1,7 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.15</b> [08/2/2023]
-# What new [08/2/2023]
+* Version : <b>4.17</b> [26/2/2023]
+# What new [26/2/2023]
 * Added CheckPath(int x, int y)
 * Pathfinder now support every world size
 * Autocollect no more crash
