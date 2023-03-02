@@ -19,8 +19,11 @@
 * [GetGhost](#getghost)
 * [MessageBox](#messagebox)
 * [RemoveCallbacks](#removecallbacks)
+* [RemoveCallback](#removecallback)
 * [Timer](#timer)
 * [IsSolid](#issolid)
+* [SendWebhook](#sendwebhook)
+* [CheckPath](#checkpath)
 
 ## SendPacket
 `SendPacket(int type, string packet)`
@@ -212,13 +215,13 @@ Add a callback Hook to a selected function
 Example:
 ```lua
 -- Blocks all dialogs
-function hook(varlist)
+function hook(varlist, packet)
 	if varlist[0]:find("OnDialogRequest") then
 		return true
 	end
 end
 
-AddCallback("OnVarlist", hook)
+AddCallback("Hook", "OnVarlist", hook)
 
 -- Blocks your chat
 function hook(type, packet)
@@ -227,7 +230,7 @@ function hook(type, packet)
 	end
 end
 
-AddCallback("OnPacket", hook)
+AddCallback("Hook", "OnPacket", hook)
 
 -- Blocks your packet_state
 function hook(packet)
@@ -236,7 +239,7 @@ function hook(packet)
 	end
 end
 
-AddCallback("OnRawPacket", hook)
+AddCallback("Hook", "OnRawPacket", hook)
 
 -- Blocks people packet_state
 function hook(packet)
@@ -245,7 +248,7 @@ function hook(packet)
 	end
 end
 
-AddCallback("OnIncomingRawPacket", hook)
+AddCallback("Hook", "OnIncomingRawPacket", hook)
 
 ----------------------------------------
 -- Override your packet_state
@@ -255,7 +258,7 @@ function hook(packet)
 	end
 end
 
-AddCallback("OnRawPacket", hook)
+AddCallback("Hook", "OnRawPacket", hook)
 
 -- Override people packet_state
 function hook(packet)
@@ -264,7 +267,7 @@ function hook(packet)
 	end
 end
 
-AddCallback("OnIncomingRawPacket", hook)
+AddCallback("Hook", "OnIncomingRawPacket", hook)
 ```
 
 ## GetPing
@@ -312,6 +315,22 @@ MessageBox("This is title", "This is content")
 `RemoveCallbacks()`
 Remove all callbacks
 
+## RemoveCallback
+`RemoveCallback(string name)`
+Remove spesific name on callback
+
+Example:
+```lua
+function hook(varlist, packet)
+	if varlist[0]:find("OnDialogRequest") then
+		return true
+	end
+end
+AddCallback("Hook", "OnVarlist", hook)
+
+RemoveCallback("Hook") --remove that callback
+```
+
 ## Timer
 Timer library by https://github.com/EntranceJew/timer
 the docs: https://wiki.facepunch.com/gmod/timer
@@ -329,6 +348,49 @@ timer.Destroy("timer name")-- destroy timer
 ## IsSolid
 `IsSolid(int x, int y)`
 Check if the block is solid or no
+
+## SendWebhook
+`SendWebhook(string webhook, string json)`
+
+Example:
+```lua
+local payload = [[{
+    "content": "",
+    "embeds": [{
+        "title": "ytta",
+        "description": "ytta :flushed:",
+        "url": "https://avatarfiles.alphacoders.com/334/334449.png",
+        "color": 5814783,
+        "fields": [{
+            "name": "Introduction",
+            "value": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession."
+        }],
+        "author": {
+            "name": "kontol",
+            "url": "https://avatarfiles.alphacoders.com/334/334449.png",
+            "icon_url": "https://avatarfiles.alphacoders.com/334/334449.png"
+        },
+        "footer": {
+            "text": "sended from growpai",
+            "icon_url": "https://copypastatext.com/wp-content/uploads/2021/12/index-14.jpg"
+        },
+        "timestamp": "2023-02-14T17:00:00.000Z"
+    }]
+}]]
+local webhook = ""
+SendWebhook(webhook, payload)
+```
+
+
+## CheckPath
+`CheckPath(int x, int y)`
+
+Example:
+```lua
+	CheckPath(0, 0) -- return bool (true == found path)
+```
+
+
 
 # Structs
 
