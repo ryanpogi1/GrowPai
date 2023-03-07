@@ -397,14 +397,14 @@ Example:
 ```lua
 	EditToggle("antibounce", true)-- active antibounce
 ```
-## Module list
-|MenuToggle|
-|Execute Luascript|
-|Stop Luascript|
-|Antiportal|
-|ModFly|
-|Autocollect|
-|Antibounce|
+## Module list:
+* MenuToggle
+* Execute Luascript
+* Stop Luascript
+* Antiportal
+* ModFly
+* Autocollect
+* Antibounce
 
 
 # Structs
