@@ -397,7 +397,7 @@ Example:
 ```lua
 	EditToggle("antibounce", true)-- active antibounce
 ```
-Module list:
+## Module list
 |MenuToggle|
 |Execute Luascript|
 |Stop Luascript|
