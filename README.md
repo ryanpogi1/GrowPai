@@ -1,13 +1,15 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.17</b> [26/2/2023]
-# What new [26/2/2023]
-* Added CheckPath(int x, int y)
-* Pathfinder now support every world size
-* Autocollect no more crash
-* Fixed GetTile crash
+* Version : <b>4.18</b> [7/3/2023]
+# What new [7/3/2023]
+* Added water check in Tile struct (check docs for more info)
+* Added fire check in Tile struct (check docs for more info)
+* Added ready check in Tile struct (check docs for more info) didn't test yet, tell if bug
+* Added EditToggle
+* Added anti disconnect when pathfinding on cps
+* Fixed memory leak on pathfinder
 # Download
-* [Download](https://link-hub.net/549925/growpai-v417-fixed)
+* [Download](https://link-target.net/549925/growpai-418-hihi)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
