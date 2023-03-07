@@ -24,7 +24,7 @@
 * [IsSolid](#issolid)
 * [SendWebhook](#sendwebhook)
 * [CheckPath](#checkpath)
-
+* [EditToggle](#edittoggle)
 ## SendPacket
 `SendPacket(int type, string packet)`
 
@@ -390,6 +390,21 @@ Example:
 	CheckPath(0, 0) -- return bool (true == found path)
 ```
 
+## EditToggle
+`EditToggle(string module, bool toggle)`
+
+Example:
+```lua
+	EditToggle("antibounce", true)-- active antibounce
+```
+Module list:
+|MenuToggle|
+|Execute Luascript|
+|Stop Luascript|
+|Antiportal|
+|ModFly|
+|Autocollect|
+|Antibounce|
 
 
 # Structs
@@ -444,6 +459,9 @@ Example:
 | Number | `pos_x` |Tile's x position |
 | Number | `pos_y` |Tile's y position |
 | Number | `flags` | Tile's flags |
+| bool | `water` | Tile's water |
+| bool | `fire` | Tile's fire |
+| bool | `ready` | Tile's ready to harvest |
 
 ## GamePacket
 | Type | Name | Description|
