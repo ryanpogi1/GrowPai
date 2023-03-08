@@ -1,6 +1,11 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
 * Version : <b>4.18</b> [7/3/2023]
+# What new [8/3/2023]
+* Fixed false mod detect on cps
+* Increased pathfinder delay on cps
+* added httprequest(url, method) -- get/post
+
 # What new [7/3/2023]
 * Added water check in Tile struct (check docs for more info)
 * Added fire check in Tile struct (check docs for more info)
@@ -9,7 +14,7 @@
 * Added anti disconnect when pathfinding on cps
 * Fixed memory leak on pathfinder
 # Download
-* [Download](https://link-target.net/549925/growpai-418-hihi)
+* [Download](https://link-hub.net/549925/fixed-growpai-418)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
