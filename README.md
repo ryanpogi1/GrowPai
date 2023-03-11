@@ -1,22 +1,26 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
 * Version : <b>4.18</b> [7/3/2023]
-# What new [8/3/2023]
+
+# Changelogs [11/3/2023]
+* Fixed crash when GetTile on negative numbers
+* Added Close mutex to growpai (multi gt) -- credit to cmc (check his internal :o )
+* Fixed lua executor not stopping
+* Added info when a thread is running
+* fixed stackoverflow
+
+# Changelogs [8/3/2023]
 * Fixed false mod detect on cps
 * Increased pathfinder delay on cps
 * added httprequest(url, method) -- get/post
 
-# What new [7/3/2023]
-* Added water check in Tile struct (check docs for more info)
-* Added fire check in Tile struct (check docs for more info)
-* Added ready check in Tile struct (check docs for more info) didn't test yet, tell if bug
-* Added EditToggle
-* Added anti disconnect when pathfinding on cps
-* Fixed memory leak on pathfinder
 # Download
-* [Download](https://link-hub.net/549925/fixed-growpai-418)
+* [Download](https://direct-link.net/549925/growpai-418-multi-gt)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
+
+# Credits
+* [Venom By cmc](https://github.com/cccmc/venom)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
