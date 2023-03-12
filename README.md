@@ -2,6 +2,10 @@
 # Version
 * Version : <b>4.18</b> [7/3/2023]
 
+
+# Changelogs [12/3/2023]
+* Fixed close mutex for win 11 - thanks to [cmc](https://github.com/cccmc)
+
 # Changelogs [11/3/2023]
 * Fixed crash when GetTile on negative numbers
 * Added Close mutex to growpai (multi gt) -- credit to cmc (check his internal :o )
@@ -9,13 +13,8 @@
 * Added info when a thread is running
 * fixed stackoverflow
 
-# Changelogs [8/3/2023]
-* Fixed false mod detect on cps
-* Increased pathfinder delay on cps
-* added httprequest(url, method) -- get/post
-
 # Download
-* [Download](https://direct-link.net/549925/growpai-418-multi-gt)
+* [Download](https://link-center.net/549925/growpai-fix-win-11-multi)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
