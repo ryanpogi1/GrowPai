@@ -3,8 +3,8 @@
 * Version : <b>4.18</b> [7/3/2023]
 
 
-# Changelogs [12/3/2023]
-* Fixed close mutex for win 11 - thanks to [cmc](https://github.com/cccmc)
+# Changelogs [14/3/2023]
+* Added gabb support 😙
 
 # Changelogs [11/3/2023]
 * Fixed crash when GetTile on negative numbers
@@ -14,7 +14,7 @@
 * fixed stackoverflow
 
 # Download
-* [Download](https://link-center.net/549925/growpai-fix-win-11-multi)
+* [Download](https://link-hub.net/549925/growpai-with-gabb-support)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
