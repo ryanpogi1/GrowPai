@@ -17,6 +17,7 @@
 # Download
 * [Download](https://direct-link.net/549925/growpai-419)
 * [Discord Server](https://discord.gg/growpai)
+* [Growtopia 4.18](https://ubistatic-a.akamaihd.net/0098/524141/GrowtopiaInstaller.exe)
 
 # Credits
 * [Venom By cmc](https://github.com/cccmc/venom)
