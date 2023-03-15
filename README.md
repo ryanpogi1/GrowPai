@@ -1,10 +1,11 @@
 # Growtopia cit hek no virus and ltc miner rilll
 # Version
-* Version : <b>4.18</b> [7/3/2023]
+* Version : <b>4.19</b> [15/3/2023]
 
 
-# Changelogs [14/3/2023]
-* Added gabb support 😙
+# Changelogs [15/3/2023]
+* The end of growpai 😮‍💨(maybe)
+* use growtopia 4.18 for now
 
 # Changelogs [11/3/2023]
 * Fixed crash when GetTile on negative numbers
@@ -14,9 +15,8 @@
 * fixed stackoverflow
 
 # Download
-* [Download](https://link-hub.net/549925/growpai-with-gabb-support)
+* [Download](https://direct-link.net/549925/growpai-419)
 * [Discord Server](https://discord.gg/growpai)
-* [Growtopia](https://growtopiagame.com/Growtopia-Installer.exe)
 
 # Credits
 * [Venom By cmc](https://github.com/cccmc/venom)
