@@ -3,9 +3,10 @@
 * Version : <b>4.19</b> [15/3/2023]
 
 
-# Changelogs [15/3/2023]
+# Changelogs [17/3/2023]
 * The end of growpai 😮‍💨(maybe)
 * use growtopia 4.18 for now
+* put the items.dat into your growtopia folder (cache folder)
 
 # Changelogs [11/3/2023]
 * Fixed crash when GetTile on negative numbers
@@ -15,7 +16,7 @@
 * fixed stackoverflow
 
 # Download
-* [Download](https://direct-link.net/549925/growpai-419)
+* [Download](https://link-target.net/549925/growpai-419-fixed-crash)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia 4.18](https://ubistatic-a.akamaihd.net/0098/524141/GrowtopiaInstaller.exe)
 
