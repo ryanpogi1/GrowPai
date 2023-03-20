@@ -3,9 +3,9 @@
 * Version : <b>4.19</b> [15/3/2023]
 
 
-# Changelogs [18/3/2023]
-* FIXED CRASH ON 4.19
-* Win 7 user can't use :(
+# Changelogs [20/3/2023]
+* Added autoexec (growtopia folder -> autoexec)
+* Blocked login packet and SetHasGrowID varlist from callback
 
 # Changelogs [11/3/2023]
 * Fixed crash when GetTile on negative numbers
@@ -15,7 +15,7 @@
 * fixed stackoverflow
 
 # Download
-* [Download](https://link-hub.net/549925/growpai-419-fixed)
+* [Download](https://link-target.net/549925/growpai-419-autoexec)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
