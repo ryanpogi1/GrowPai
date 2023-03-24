@@ -25,6 +25,10 @@
 * [SendWebhook](#sendwebhook)
 * [CheckPath](#checkpath)
 * [EditToggle](#edittoggle)
+* [GetItemCount](#getitemcount)
+* [GetIteminfo](#GetIteminfo)
+
+
 ## SendPacket
 `SendPacket(int type, string packet)`
 
@@ -157,7 +161,7 @@ end
 ## GetTile
 `GetTile(int x, int y)`
 
-Returns world [Tile](Structs.md#tile) in selected position
+Returns world [Tile](#tile) in selected position
 
 Example:
 ```lua
@@ -169,7 +173,7 @@ log(tile.fg)
 ## GetTiles
 `GetTiles()`
 
-Returns table of [Tiles](Structs.md#tile)
+Returns table of [Tiles](S#tile)
 
 Example:
 ```lua
@@ -268,6 +272,11 @@ function hook(packet)
 end
 
 AddCallback("Hook", "OnIncomingRawPacket", hook)
+
+--Update timer
+AddCallback("timer", "OnUpdate", function(deltatime)
+	timer.update(deltatime)
+end)
 ```
 
 ## GetPing
@@ -337,7 +346,12 @@ the docs: https://wiki.facepunch.com/gmod/timer
 
 Example:
 ```lua
-timer.Create("timer name", 5, 0, function() 
+--Create a timer update callback
+AddCallback("timer", "OnUpdate", function(deltatime)
+	timer.update(deltatime)
+end)
+
+timer.Create("timer name", 5, 0, function()
 	print("me nem kontol")
 	--this will print in 5 second
 end)
@@ -406,6 +420,23 @@ Example:
 * Autocollect
 * Antibounce
 
+## GetItemCount
+`GetItemCount(int id)`
+
+Example:
+```lua
+log(GetItemCount(2))--return dirt count 
+```
+## GetIteminfo
+`GetIteminfo(int id)`
+
+Returns table of [ItemInfo](#ItemInfo)
+
+Example:
+```lua
+log(GetIteminfo(2).name)--return name of id block 2
+```
+
 
 # Structs
 
@@ -415,6 +446,7 @@ Example:
 * [Tile](#tile)
 * [GamePacket](#gamepacket)
 * [VariantList](#variantlist)
+* [ItemInfo](#iteminfo)
 
 ## NetAvatar
 | Type | Name | Description|
@@ -494,3 +526,12 @@ Example:
 | Any | `[3]` | Param 3 |
 | Any | `[4]` | Param 4 |
 | Any | `[5]` | Param 5 |
+
+## ItemInfo
+| Type | Name | Description|
+|:-----|:----:|:-----------|
+| String | `name` | item's name |
+| Number | `item_type` | Item's type |
+| Number | `growth` | Item's growth |
+| Number | `rarity` | Item's rarity |
+| Number | `size` | Items list size |
