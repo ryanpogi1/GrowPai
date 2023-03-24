@@ -3,24 +3,28 @@
 * Version : <b>4.19</b> [15/3/2023]
 
 
+# Changelogs [24/3/2023]
+* Added "OnUpdate" Callback type, check luadocs for more information
+* Fixed Items.dat crash
+* Added support for pathfinder to plat, one way block, waterfall (credit to venom by cmc)
+* Added Auto reconnect if login failed (credit to venom by cmc)
+* Added Getiteminfo
+
 # Changelogs [20/3/2023]
 * Added autoexec (growtopia folder -> autoexec)
 * Blocked login packet and SetHasGrowID varlist from callback
 
-# Changelogs [11/3/2023]
-* Fixed crash when GetTile on negative numbers
-* Added Close mutex to growpai (multi gt) -- credit to cmc (check his internal :o )
-* Fixed lua executor not stopping
-* Added info when a thread is running
-* fixed stackoverflow
-
 # Download
-* [Download](https://link-target.net/549925/growpai-419-autoexec)
+* [Download](https://link-hub.net/549925/inzector-grutupia)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
 # Credits
 * [Venom By cmc](https://github.com/cccmc/venom)
+* [aname for bypass vmp](https://www.youtube.com/@aname0)
+
+# Venom
+* Thanks for the pathfinder, touch bypass, enable pasting and auto reconnect (i will put all the feature if i take it from venom source)
 
 # If Error
 * If you got error code 0xc0000135 go download this [vcredist all in one](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one)
