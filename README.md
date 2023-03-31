@@ -1,4 +1,4 @@
-# Growtopia cit hek no virus and ltc miner rilll
+# This is the real Github (Check name github HertZxD)
 # Version
 * Version : <b>4.19</b> [15/3/2023]
 
