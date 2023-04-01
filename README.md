@@ -1,6 +1,8 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.19</b> [15/3/2023]
+* Version : <b>4.20</b> [1/4/2023]
+* Compatible growtopia version : <b>4.19</b>
+* [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 
 # Changelogs [24/3/2023]
@@ -15,7 +17,7 @@
 * Blocked login packet and SetHasGrowID varlist from callback
 
 # Download
-* [Download](https://link-target.net/549925/inzector-fix-hwnd)
+* [Download](https://link-center.net/549925/inzector-42)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
