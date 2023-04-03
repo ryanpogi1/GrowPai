@@ -17,7 +17,7 @@
 * Blocked login packet and SetHasGrowID varlist from callback
 
 # Download
-* [Download](https://link-center.net/549925/inzector-42)
+* [Download](https://link-center.net/549925/growpai-fix-stuck-login)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
