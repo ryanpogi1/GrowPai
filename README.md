@@ -1,9 +1,16 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.20</b> [1/4/2023]
+* Version : <b>4.23</b> [21/4/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
+# NOTE
+Use Growtopia 4.19 🇹🇰
+
+# Changelogs [21/4/2023]
+* Fixed 4.23 login issue
+* Fixed memory leak on the pathfinder
+* Added Safe execution (disable os, io, require, sendwebhook)
 
 # Changelogs [24/3/2023]
 * Added "OnUpdate" Callback type, check luadocs for more information
@@ -12,12 +19,8 @@
 * Added Auto reconnect if login failed (credit to venom by cmc)
 * Added Getiteminfo
 
-# Changelogs [20/3/2023]
-* Added autoexec (growtopia folder -> autoexec)
-* Blocked login packet and SetHasGrowID varlist from callback
-
 # Download
-* [Download](https://link-center.net/549925/growpai-fix-stuck-login)
+* [Download](https://link-target.net/549925/growpai-inzector)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
