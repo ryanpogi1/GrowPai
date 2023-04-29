@@ -7,20 +7,19 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+
+# Changelogs [29/3/2023]
+* Added OnTouch Callback
+* Improved Auto bfg
+* Fixed can't login due to rtvar parsing
+
 # Changelogs [21/4/2023]
 * Fixed 4.23 login issue
 * Fixed memory leak on the pathfinder
 * Added Safe execution (disable os, io, require, sendwebhook)
 
-# Changelogs [24/3/2023]
-* Added "OnUpdate" Callback type, check luadocs for more information
-* Fixed Items.dat crash
-* Added support for pathfinder to plat, one way block, waterfall (credit to venom by cmc)
-* Added Auto reconnect if login failed (credit to venom by cmc)
-* Added Getiteminfo
-
 # Download
-* [Download](https://link-target.net/549925/growpai-inzector)
+* [Download](https://link-target.net/549925/growpai-ril)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
