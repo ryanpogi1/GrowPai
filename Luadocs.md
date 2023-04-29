@@ -277,6 +277,12 @@ AddCallback("Hook", "OnIncomingRawPacket", hook)
 AddCallback("timer", "OnUpdate", function(deltatime)
 	timer.update(deltatime)
 end)
+
+--On Touch
+AddCallback("touch", "OnTouch", function(pos)
+	print(pos.x)
+	print(pos.y)
+end)
 ```
 
 ## GetPing
