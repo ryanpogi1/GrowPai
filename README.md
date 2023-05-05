@@ -16,7 +16,7 @@ Use Growtopia 4.19 🇹🇰
 * Fixed can't login due to rtvar parsing
 
 # Download
-* [Download](https://link-target.net/549925/growpai-ril)
+* [Download](https://direct-link.net/549925/growpai-inzector-424)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
