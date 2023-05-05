@@ -1,22 +1,19 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.23</b> [21/4/2023]
+* Version : <b>4.24</b> [5/5/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [5/5/2023]
+* Updated to 4.24 Credit to Zumor : [Discord Server](https://discord.gg/VaY5D2M4Ut)
 
-# Changelogs [29/3/2023]
+# Changelogs [29/4/2023]
 * Added OnTouch Callback
 * Improved Auto bfg
 * Fixed can't login due to rtvar parsing
-
-# Changelogs [21/4/2023]
-* Fixed 4.23 login issue
-* Fixed memory leak on the pathfinder
-* Added Safe execution (disable os, io, require, sendwebhook)
 
 # Download
 * [Download](https://link-target.net/549925/growpai-ril)
@@ -25,6 +22,7 @@ Use Growtopia 4.19 🇹🇰
 
 # Credits
 * [Venom By cmc](https://github.com/cccmc/venom)
+* [Venom discord](https://discord.gg/VaY5D2M4Ut)
 * [aname for bypass vmp](https://www.youtube.com/@aname0)
 
 # Venom
