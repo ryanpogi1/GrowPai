@@ -7,16 +7,15 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [14/5/2023]
+* Hopefully fixed ban accident :D
+* I recommend you to use alt acc for now
+
 # Changelogs [5/5/2023]
 * Updated to 4.24 Credit to Zumor : [Discord Server](https://discord.gg/VaY5D2M4Ut)
 
-# Changelogs [29/4/2023]
-* Added OnTouch Callback
-* Improved Auto bfg
-* Fixed can't login due to rtvar parsing
-
 # Download
-* [Download](https://direct-link.net/549925/growpai-inzector-424)
+* [Download](https://link-center.net/549925/growpai-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
