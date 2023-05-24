@@ -12,7 +12,7 @@ Use Growtopia 4.19 🇹🇰
 * I recommend you to use alt acc for now
 
 # Changelogs [5/5/2023]
-* Updated to 4.24 Credit to Zumor : [Discord Server](https://discord.gg/VaY5D2M4Ut)
+* Updated to 4.24
 
 # Download
 * [Download](https://link-center.net/549925/growpai-fix-ban)
@@ -20,8 +20,6 @@ Use Growtopia 4.19 🇹🇰
 * [Growtopia](growtopiagame.com)
 
 # Credits
-* [Venom By cmc](https://github.com/cccmc/venom)
-* [Venom discord](https://discord.gg/VaY5D2M4Ut)
 * [aname for bypass vmp](https://www.youtube.com/@aname0)
 
 # Venom
