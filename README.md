@@ -1,21 +1,21 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.25</b> [9/5/2023]
+* Version : <b>4.27</b> [3/6/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [3/6/2023]
+* Updated to 4.27
+
 # Changelogs [14/5/2023]
 * Hopefully fixed ban accident :D
 * I recommend you to use alt acc for now
 
-# Changelogs [5/5/2023]
-* Updated to 4.24
-
 # Download
-* [Download](https://link-center.net/549925/growpai-fix-ban)
+* [Download](https://link-target.net/549925/growpai-427-inzector)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
