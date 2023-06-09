@@ -7,15 +7,16 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+
+# Changelogs [9/6/2023]
+* Updated to 4.29
+
 # Changelogs [3/6/2023]
 * Updated to 4.27
 
-# Changelogs [14/5/2023]
-* Hopefully fixed ban accident :D
-* I recommend you to use alt acc for now
 
 # Download
-* [Download](https://link-target.net/549925/growpai-427-inzector)
+* [Download](https://link-hub.net/549925/growpai-inzector-429)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
