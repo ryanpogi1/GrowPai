@@ -7,16 +7,15 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [14/6/2023]
+* Fixed stuck login after update!
 
 # Changelogs [9/6/2023]
 * Updated to 4.29
 
-# Changelogs [3/6/2023]
-* Updated to 4.27
-
 
 # Download
-* [Download](https://link-hub.net/549925/growpai-inzector-429)
+* [Download](https://link-hub.net/549925/growpaizector-429-login)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
