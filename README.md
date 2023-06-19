@@ -8,15 +8,14 @@
 Use Growtopia 4.19 🇹🇰
 
 
+# Changelogs [19/6/2023]
+* Fixed login spoof that didn't unban you
+
 # Changelogs [16/6/2023]
 * Updated to 4.3
 
-# Changelogs [14/6/2023]
-* Fixed stuck login after update!
-
-
 # Download
-* [Download](https://direct-link.net/549925/inzector-growpai-43)
+* [Download](https://direct-link.net/549925/growpai-43-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
