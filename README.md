@@ -8,14 +8,16 @@
 Use Growtopia 4.19 🇹🇰
 
 
+# Changelogs [2/7/2023]
+* Updated to 4.31
+* No crash when login!!
+
 # Changelogs [19/6/2023]
 * Fixed login spoof that didn't unban you
 
-# Changelogs [16/6/2023]
-* Updated to 4.3
 
 # Download
-* [Download](https://direct-link.net/549925/growpai-43-fix-ban)
+* [Download](https://link-target.net/549925/growpai-inzector-sunday)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
