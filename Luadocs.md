@@ -27,6 +27,7 @@
 * [EditToggle](#edittoggle)
 * [GetItemCount](#getitemcount)
 * [GetIteminfo](#GetIteminfo)
+* [PathFind](#PathFind)
 
 
 ## SendPacket
@@ -441,6 +442,20 @@ Returns table of [ItemInfo](#ItemInfo)
 Example:
 ```lua
 log(GetIteminfo(2).name)--return name of id block 2
+```
+
+## PathFind
+`PathFind(int x, int y)`
+
+Returns table of path to destination
+
+Example:
+```lua
+local path = PathFind(46, 10)
+print(#path) -- how much block does it take to that destination
+for i, v in pairs(path) do
+	print(("%d, %d"):format(v.x, v.y))
+end
 ```
 
 
