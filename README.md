@@ -7,17 +7,15 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [7/7/2023]
+* New lua function "PathFind" return a path to destination
 
 # Changelogs [2/7/2023]
 * Updated to 4.31
 * No crash when login!!
 
-# Changelogs [19/6/2023]
-* Fixed login spoof that didn't unban you
-
-
 # Download
-* [Download](https://link-target.net/549925/growpai-inzector-sunday)
+* [Download](https://link-target.net/549925/growpai-custom-lua-pf)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
