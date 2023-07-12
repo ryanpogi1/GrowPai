@@ -16,6 +16,7 @@ Use Growtopia 4.19 🇹🇰
 
 # Download
 * [Download](https://link-target.net/549925/growpai-custom-lua-pf)
+* [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
 
