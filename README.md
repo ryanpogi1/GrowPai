@@ -1,21 +1,21 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.31</b> [2/7/2023]
+* Version : <b>4.32</b> [13/7/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [13/7/2023]
+* Updated to 4.32
+* WOOOOOOOOOOOOOOOOOOOOOOOW
+
 # Changelogs [7/7/2023]
 * New lua function "PathFind" return a path to destination
 
-# Changelogs [2/7/2023]
-* Updated to 4.31
-* No crash when login!!
-
 # Download
-* [Download](https://link-target.net/549925/growpai-custom-lua-pf)
+* [Download](https://link-target.net/549925/growpai-anjir-432-wokowk)
 * [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
