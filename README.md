@@ -15,7 +15,7 @@ Use Growtopia 4.19 🇹🇰
 * New lua function "PathFind" return a path to destination
 
 # Download
-* [Download](https://link-target.net/549925/sorry-growpai-corrupt)
+* [Download](https://direct-link.net/549925/growpai-test-fix-some)
 * [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
