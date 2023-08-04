@@ -7,15 +7,17 @@
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+
+
+# Changelogs [4/8/2023]
+* Fixed SendVarlist only reach 5 varlist
+* Fixed OnVarlist Callback only receiving 4 varlist
+
 # Changelogs [28/7/2023]
 * Updated 4.33
 
-# Changelogs [13/7/2023]
-* Updated to 4.32
-* WOOOOOOOOOOOOOOOOOOOOOOOW
-
 # Download
-* [Download](https://link-hub.net/549925/growpai-untitled-link)
+* [Download](https://link-target.net/549925/growpai-inzector1)
 * [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
 * [Discord Server](https://discord.gg/growpai)
 * [Growtopia](growtopiagame.com)
