@@ -1,26 +1,24 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.34</b> [8/9/2023]
+* Version : <b>4.35</b> [8/28/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [28/8/2023]
+* Updated to 4.35 (login only) still using 4.19
+* Fixed guest verify
 
 # Changelogs [9/8/2023]
 * Updated 4.34
 * Added UbiTicket Login (in misc)
 
-# Changelogs [4/8/2023]
-* Fixed SendVarlist only reach 5 varlist
-* Fixed OnVarlist Callback only receiving 4 varlist
-
-
 # Download
-* [Download](https://link-target.net/549925/inzector-growpai-connect)
+* [Download](https://link-center.net/549925/growpai-435)
 * [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
-* [Discord Server](https://discord.gg/growpai)
+* [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
 # Credits
