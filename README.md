@@ -9,14 +9,14 @@ Use Growtopia 4.19 🇹🇰
 
 # Changelogs [9/6/2023]
 * Updated 4.36
+* Fixed crash when entering some gtps
 
 # Changelogs [28/8/2023]
 * Updated to 4.35 (login only) still using 4.19
 * Fixed guest verify
 
 # Download
-* [Download](https://link-center.net/549925/growpai-inzector-436)
-* [Download for cps](https://direct-link.net/549925/growpai-43-fix-ban)
+* [Download](https://link-target.net/549925/inzector-growpai-fix-436)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
