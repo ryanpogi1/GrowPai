@@ -1,6 +1,6 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.35</b> [9/6/2023]
+* Version : <b>4.36</b> [9/6/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
