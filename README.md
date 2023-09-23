@@ -19,6 +19,7 @@ Use Growtopia 4.19 🇹🇰
 * Fixed crash when entering some gtps
 
 # Download
+* Hash = <b>ac89e4c9c4e8c41181d87041bc0972cab55ac7b56f24912c64be281e15ea9835</b>
 * [Download](https://direct-link.net/549925/growpai-437)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
