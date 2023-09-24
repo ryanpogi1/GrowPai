@@ -8,18 +8,17 @@
 Use Growtopia 4.19 🇹🇰
 
 
+# Changelogs [9/24/2023]
+* Added version checker
+
 # Changelogs [9/21/2023]
 * Updated to 4.37 (login only) still using 4.19
 * Fixed _G in lua
 * Fixed file:open in lua
 * Added custom rid and mac in custom login
 
-# Changelogs [9/6/2023]
-* Updated 4.36
-* Fixed crash when entering some gtps
-
 # Download
-* Hash = <b>ac89e4c9c4e8c41181d87041bc0972cab55ac7b56f24912c64be281e15ea9835</b>
+* Hash = <b>ae67980fbef05dfa048f1aa0fd599c9e965a61786e5aae05234f42915830ff13</b>
 * [Download](https://direct-link.net/549925/growpai-437)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
