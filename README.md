@@ -18,7 +18,7 @@ Use Growtopia 4.19 🇹🇰
 * Added custom rid and mac in custom login
 
 # Download
-* Hash = <b>ae67980fbef05dfa048f1aa0fd599c9e965a61786e5aae05234f42915830ff13</b>
+* Hash = <b>ae67980fbef05dfa048f1aa0fd599c9e965a61786e5aae05234f42915830ff13 (Virustotal hash)</b>
 * [Download](https://direct-link.net/549925/growpai-437)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
