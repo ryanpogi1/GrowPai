@@ -1,6 +1,6 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.37</b> [9/21/2023]
+* Version : <b>4.38</b> [10/9/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
@@ -8,18 +8,15 @@
 Use Growtopia 4.19 🇹🇰
 
 
+# Changelogs [10/9/2023]
+* Updated to 4.38
+
 # Changelogs [9/24/2023]
 * Added version checker
 
-# Changelogs [9/21/2023]
-* Updated to 4.37 (login only) still using 4.19
-* Fixed _G in lua
-* Fixed file:open in lua
-* Added custom rid and mac in custom login
-
 # Download
-* Hash = <b>ae67980fbef05dfa048f1aa0fd599c9e965a61786e5aae05234f42915830ff13 (Virustotal hash)</b>
-* [Download](https://direct-link.net/549925/growpai-437)
+* Hash = <b>602cc6747b5ec52ff0428e9674f09f5cf9a16a9dd985ac613af08f0500354535 (Virustotal hash)</b>
+* [Download](https://link-center.net/549925/growpai1)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
