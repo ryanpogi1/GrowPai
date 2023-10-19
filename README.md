@@ -16,7 +16,7 @@ Use Growtopia 4.19 🇹🇰
 
 
 # Download
-* Hash = <b>d926185ec8fb76613690dcbdc87e0b355abcb099011ffc42ce7b799e19bd7c36 (Virustotal hash) check if its same then its real</b>
+* Hash = <b>8ecead67009f6cda4adc1ea75c461589de4f8afb2768e4a53f74a1031b745be9 (Virustotal hash) check if its same then its real</b>
 * [Download](https://tii.la/growpai_439)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
