@@ -1,22 +1,22 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.4</b> [11/1/2023]
+* Version : <b>4.42</b> [11/17/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
 # NOTE
 Use Growtopia 4.19 🇹🇰
 
+# Changelogs [11/17/2023]
+* Updated to 4.42
+* Remove case sensitive on items dat (Gear icon -> item db)
+
 # Changelogs [11/1/2023]
 * Updated to 4.4
 
-# Changelogs [10/19/2023]
-* Updated to 4.39
-* Added new callback name "OnGameMessage" like that captcha_url, or login_failed
-
 # Download
-* Hash = <b>94372d88a72df760000b885f41d5934725f1c32863d9c87315ffcea8ae081657 (Virustotal hash) check if its same then its real</b>
-* [Download](https://tii.la/Growpai_44)
+* Hash = <b>208e6be51261806e2e1cc81740f607a551e3d25584aeb8a668c457e715bfda63 (Virustotal hash) check if its same then its real</b>
+* [Download](https://tii.la/growpai_442)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
