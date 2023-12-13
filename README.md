@@ -10,7 +10,7 @@ Use Growtopia 4.19 🇹🇰
 
 
 # Changelogs [12/13/2023]
-* Updated to 4.43
+* Updated to 4.44
 
 # Changelogs [12/2/2023]
 * Updated to 4.43
