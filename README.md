@@ -21,6 +21,9 @@ Use Growtopia 4.19 🇹🇰
 * [Download](https://tii.la/growpai_444)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
+# Download GTPS
+* [Download V1](https://tii.la/growpai_gtps_v1) -- if v1 still crash try v2
+* [Download V2](https://tii.la/growpai_gtps_v2)
 
 # Credits
 * [aname for bypass vmp](https://www.youtube.com/@aname0)
