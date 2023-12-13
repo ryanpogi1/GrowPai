@@ -1,6 +1,6 @@
 # This is the real Github (Check name github HertZxD)
 # Version
-* Version : <b>4.43</b> [12/2/2023]
+* Version : <b>4.44</b> [12/13/2023]
 * Compatible growtopia version : <b>4.19</b>
 * [Download Growtopia 4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
 
@@ -8,17 +8,17 @@
 Use Growtopia 4.19 🇹🇰
 
 
+
+# Changelogs [12/13/2023]
+* Updated to 4.43
+
 # Changelogs [12/2/2023]
 * Updated to 4.43
 
-# Changelogs [11/17/2023]
-* Updated to 4.42
-* Remove case sensitive on items dat (Gear icon -> item db)
-
 
 # Download
-* Hash = <b>aa4004fed54052f6cccaee885f1f163943e689d46107f7be718bd01c5706e293 (Virustotal hash) check if its same then its real</b>
-* [Download](https://tii.la/Growtopia_443)
+* Hash = <b>402b6e35e26688c625f6b0c4417b5b4cc145f958857555aa1be28fc7f5980ebd (Virustotal hash) check if its same then its real</b>
+* [Download](https://tii.la/growpai_444)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
 
