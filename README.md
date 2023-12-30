@@ -8,22 +8,21 @@
 Use Growtopia 4.19 🇹🇰
 
 
+# Changelogs [12/30/2023]
+* Updated to 4.45
+* Added config in setting page
+* Added item filter for autocollect in Setting page
+* Added save hotkey on hotkey page (if you want to remove the hotkey just delete the file in the growtopia folder called "config_hotkey.json")
+* Added a optional option in executor setting
 
 # Changelogs [12/13/2023]
 * Updated to 4.44
 
-# Changelogs [12/2/2023]
-* Updated to 4.43
-
-
 # Download
-* Hash = <b>402b6e35e26688c625f6b0c4417b5b4cc145f958857555aa1be28fc7f5980ebd (Virustotal hash) check if its same then its real</b>
-* [Download](https://tii.la/growpai_444)
+* Hash = <b>c3a19d28f224a8254d5e2f8ae957f9391bae7f82dc3c900a6076c102ae716d41 (Virustotal hash) check if its same then its real</b>
+* [Download](https://tii.la/growpai445)
 * [Discord Server](https://discord.gg/k4fdpb8R2H) -- Update to newest link (perma)
 * [Growtopia](growtopiagame.com)
-# Download GTPS
-* [Download V1](https://tii.la/growpai_gtps_v1) -- if v1 still crash try v2
-* [Download V2](https://tii.la/growpai_gtps_v2)
 
 # Credits
 * [aname for bypass vmp](https://www.youtube.com/@aname0)
